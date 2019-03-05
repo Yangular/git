@@ -1,4 +1,3 @@
 <div>
     -Add Yasuo... 
-    -0/9/0 
 </di>
